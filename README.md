@@ -23,7 +23,7 @@
 ## Projeto:
 
 <p>
-O projeto foi desenvolvido durante o Workshop Dev Especial ministrada pela Rockseat. Consiste em uma aplicação na qual 
+O projeto foi desenvolvido durante o Workshop Dev Especial ministrada pela Rocketseat. Consiste em uma aplicação na qual 
 o usuário catalogar ideias, brincadeiras, jogos, filmes, livros, cursos, dicas e tudo que for necessário para tornar 
 e de seu interessante.
 </p>
